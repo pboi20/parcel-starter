@@ -1,5 +1,5 @@
-$title-color: blue;
+@import '~bootstrap/scss/bootstrap';
 
-h1 {
-  color: $title-color;
-}
+@import './common/variables';
+@import './common/base';
+@import './components/top-nav';
