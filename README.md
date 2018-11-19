@@ -29,7 +29,7 @@ npm install
 Alternatively, you could download the project as a [ZIP Archive](https://github.com/pboi20/parcel-starter/archive/master.zip).
 
 
-#### Available Scripts
+### Available Scripts
 
 #### `npm run dev`
 
