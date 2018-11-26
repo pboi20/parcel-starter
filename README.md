@@ -6,7 +6,7 @@ A basic front-end starter template using the [Parcel bundler](https://github.com
 
 ### Features
 
-- Zero configuration
+- Zero configuration (Parcel defaults)
 - ES6+ project structure to single ES5 bundle
 - SCSS project structure to single CSS bundle
 - Minimal Bootstrap 4 setup ready to be customized
