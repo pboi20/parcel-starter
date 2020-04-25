@@ -10,7 +10,6 @@ A basic front-end starter template using the [Parcel bundler](https://github.com
 - ES6+ project structure to single ES5 bundle
 - SCSS project structure to single CSS bundle
 - Minimal Bootstrap 4 setup ready to be customized
-- Image optimization through [`parcel-plugin-imagemin`](https://github.com/DeMoorJasper/parcel-plugin-imagemin)
 
 
 ### Requirements
