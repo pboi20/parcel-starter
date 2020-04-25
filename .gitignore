@@ -12,10 +12,11 @@ yarn-debug.log*
 yarn-error.log*
 .eslintcache
 .cache
+package-lock.json
 
 # Editor
 *.swp
-.vimproject
+.vimrc
 
 # System
 .DS_Store
